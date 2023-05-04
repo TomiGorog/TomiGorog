@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tamas Gorog
-- 👀 I’m interested in Front-end developerment and web development
+- 👀 I’m interested in Front-end development and web development
 - 💞️ I’m currently learning Angular.
 - 📫 You can reach me on Linkedin: https://www.linkedin.com/in/tamas-gorog-354369177/  or my email is: tamas.peter.gorog@gmail.com
